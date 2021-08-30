@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "684657029090",
+    "project_id": "senacbet-7375b",
+    "storage_bucket": "senacbet-7375b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:684657029090:android:29288c36e2580d488bd3bb",
+        "android_client_info": {
+          "package_name": "com.example.senacbet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "684657029090-83bc8sdq7es802i6l7b52iu2ifdg94t2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAGhDlaoN85T0PkhV0lDAPHEdravvtMYk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "684657029090-83bc8sdq7es802i6l7b52iu2ifdg94t2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
